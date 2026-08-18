@@ -63,8 +63,12 @@ Hi, I'm **Wang Shuaipeng**. I am a student at Chongqing University of Posts and 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wsp030914&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" alt="Wsp030914 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wsp030914&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wsp030914&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wsp030914&theme=github_dark" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wsp030914&theme=github_dark" alt="GitHub profile details" />
 </p>
 
 <p align="center">
