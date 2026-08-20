@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Go+Backend+Developer;AI+Agent+Infrastructure;RAG+%26+Tool+Calling;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Go+Backend+Developer;AI+Agent+Builder;Backend+Engineering;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ## About
 
-Hi, I'm **Wang Shuaipeng**. I am a student at Chongqing University of Posts and Telecommunications, focusing on Go backend development, AI agent infrastructure, RAG systems, and distributed systems.
+Hi, I'm **Wang Shuaipeng**. I am a student at Chongqing University of Posts and Telecommunications, focusing on Go backend development, AI agent infrastructure, and distributed systems.
 
 - Reading Go runtime and standard library internals: `slice`, `map`, `channel`, `context`, `sync.Map`, and `singleflight`.
 - Exploring open-source AI infrastructure through projects such as `trpc-agent-go`, `ragflow`, and `trpc-agent-python`.
@@ -36,8 +36,8 @@ Hi, I'm **Wang Shuaipeng**. I am a student at Chongqing University of Posts and 
 <table>
   <tr>
     <td width="50%">
-      <h3>AI Agent / RAG</h3>
-      <p>Agent frameworks, tool calling, memory, workflow orchestration, MCP, evaluation, and observability.</p>
+      <h3>AI Agent</h3>
+      <p>Agent frameworks, memory, workflow orchestration, MCP, evaluation, and observability.</p>
     </td>
     <td width="50%">
       <h3>Go Backend</h3>
