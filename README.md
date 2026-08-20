@@ -57,27 +57,12 @@ Hi, I'm **Wang Shuaipeng**. I am a student at Chongqing University of Posts and 
 
 ## Recent Writing
 
-- [slice 婧愮爜娴呰](https://wsp030914.github.io/2026/03/14/slice%E6%BA%90%E7%A0%81%E6%B5%85%E8%AF%BB/)
-- [Singleflight 宸у瑙ｅ喅缂撳瓨鍑荤┛](https://wsp030914.github.io/2026/02/20/singlefight%20%E5%B7%A7%E5%A6%99%E9%81%BF%E5%85%8D%E7%BC%93%E5%AD%98%E5%87%BB%E7%A9%BF/)
-- [骞跺彂瀹夊叏鐨?map 鐨勮В璇讳笌浣跨敤](https://wsp030914.github.io/2026/02/13/%E5%B9%B6%E5%8F%91%E5%AE%89%E5%85%A8%E7%9A%84map%E8%A7%A3%E8%AF%BB%E4%B8%8E%E4%BD%BF%E7%94%A8/)
-- [鍏ㄦ柊瀛樺偍鏂瑰紡鐨?map](https://wsp030914.github.io/2026/02/10/%E8%A7%A3%E8%AF%BB%E6%96%B0%E7%9A%84map%E5%AE%9E%E7%8E%B0/)
-- [channel 婧愮爜娴呰](https://wsp030914.github.io/2026/02/02/channel%E6%BA%90%E7%A0%81%E6%B5%85%E8%AF%BB/)
-- [context 婧愮爜娴呰](https://wsp030914.github.io/2026/01/29/context%E6%BA%90%E7%A0%81%E6%B5%85%E8%AF%BB/)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wsp030914&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wsp030914&theme=github_dark" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wsp030914&theme=github_dark" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wsp030914&bg_color=020617&color=38BDF8&line=14B8A6&point=A78BFA&area=true&hide_border=true&radius=8" alt="GitHub activity graph" />
-</p>
+- [Go slice source reading](https://wsp030914.github.io/2026/03/14/slice%E6%BA%90%E7%A0%81%E6%B5%85%E8%AF%BB/)
+- [singleflight and cache breakdown](https://wsp030914.github.io/2026/02/20/singlefight%20%E5%B7%A7%E5%A6%99%E9%81%BF%E5%85%8D%E7%BC%93%E5%AD%98%E5%87%BB%E7%A9%BF/)
+- [sync.Map concurrency notes](https://wsp030914.github.io/2026/02/13/%E5%B9%B6%E5%8F%91%E5%AE%89%E5%85%A8%E7%9A%84map%E8%A7%A3%E8%AF%BB%E4%B8%8E%E4%BD%BF%E7%94%A8/)
+- [Go 1.24 map implementation notes](https://wsp030914.github.io/2026/02/10/%E8%A7%A3%E8%AF%BB%E6%96%B0%E7%9A%84map%E5%AE%9E%E7%8E%B0/)
+- [Go channel source reading](https://wsp030914.github.io/2026/02/02/channel%E6%BA%90%E7%A0%81%E6%B5%85%E8%AF%BB/)
+- [Go context source reading](https://wsp030914.github.io/2026/01/29/context%E6%BA%90%E7%A0%81%E6%B5%85%E8%AF%BB/)
 
 ## Contribution Snake
 
