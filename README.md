@@ -12,6 +12,9 @@ I build Go backend systems and AI agents.
 
 ## Recent open-source activity
 
+<details>
+<summary>View contributions by project</summary>
+
 **[trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)**
 
 - [PR #2265](https://github.com/trpc-group/trpc-agent-go/pull/2265): multi-backend replay consistency framework
@@ -31,6 +34,8 @@ I build Go backend systems and AI agents.
 **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)**
 
 - [PR #15498](https://github.com/infiniflow/ragflow/pull/15498): support `.wmf` extension case-insensitively and remove duplicate extension entry
+
+</details>
 
 ## Toolbox
 
