@@ -2,6 +2,10 @@
 
 I build Go backend systems and AI agent infrastructure.
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2563EB&vCenter=true&width=520&lines=Go+Backend+Developer;AI+Agent+Builder;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
 - Working on agent frameworks, backend services, and open-source infrastructure
 - Interested in concurrency, runtime internals, MCP ecosystems, and observability
 - Writing Go source-reading notes at [Jiaozi's Blog](https://wsp030914.github.io/)
@@ -11,14 +15,25 @@ I build Go backend systems and AI agent infrastructure.
 
 ## Recent open-source activity
 
-| Date | Repository | Activity |
-| --- | --- | --- |
-| 2026-08-22 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review/pull/1035) | Merged PR #1035: persist safe dedup checkpoints on resume |
-| 2026-08-21 | [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go/pull/2265) | Open PR #2265: multi-backend replay consistency framework |
-| 2026-08-21 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot/pulls?q=author%3AWsp030914) | Open PRs: gitstore rewrite detection, signal allowlists, resume launch context |
-| 2026-08-21 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review/pull/1029) | Merged PR #1029: list merge commit files in VS Code flow |
-| 2026-08-20 | [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go/pull/2501) | Merged PR #2501: emit empty properties for object tools |
-| 2026-08-20 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow/pull/15498) | Open PR #15498: case-insensitive `.wmf` support and extension cleanup |
+**[trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)**
+
+- [PR #2265](https://github.com/trpc-group/trpc-agent-go/pull/2265): multi-backend replay consistency framework
+- [PR #2501](https://github.com/trpc-group/trpc-agent-go/pull/2501): emit empty properties for object tools
+
+**[alibaba/open-code-review](https://github.com/alibaba/open-code-review)**
+
+- [PR #1035](https://github.com/alibaba/open-code-review/pull/1035): persist safe dedup checkpoints on resume
+- [PR #1029](https://github.com/alibaba/open-code-review/pull/1029): list merge commit files in VS Code flow
+
+**[HKUDS/nanobot](https://github.com/HKUDS/nanobot)**
+
+- [PR #5473](https://github.com/HKUDS/nanobot/pull/5473): detect rapid same-size rewrites in gitstore
+- [PR #5472](https://github.com/HKUDS/nanobot/pull/5472): honor wildcard in inbound allowlists
+- [PR #5467](https://github.com/HKUDS/nanobot/pull/5467): preserve launch context in resume commands
+
+**[infiniflow/ragflow](https://github.com/infiniflow/ragflow)**
+
+- [PR #15498](https://github.com/infiniflow/ragflow/pull/15498): support `.wmf` extension case-insensitively and remove duplicate extension entry
 
 ## Toolbox
 
