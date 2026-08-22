@@ -1,12 +1,9 @@
 ## Hi, I'm Wang Shuaipeng
 
-I build Go backend systems and AI agent infrastructure.
+I build Go backend systems and AI agents.
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2563EB&vCenter=true&width=520&lines=Go+Backend+Developer;AI+Agent+Builder;Open+Source+Contributor" alt="Typing SVG" />
-</p>
 
-- Working on agent frameworks, backend services, and open-source infrastructure
+- Working on agent frameworks, backend services, and open-source projects
 - Interested in concurrency, runtime internals, MCP ecosystems, and observability
 - Writing Go source-reading notes at [Jiaozi's Blog](https://wsp030914.github.io/)
 - Recently contributing across `trpc-agent-go`, `open-code-review`, `nanobot`, and `ragflow`
