@@ -57,5 +57,3 @@ I build Go backend systems and AI agents.
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Wsp030914/Wsp030914/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-Profile assets refresh automatically every day with GitHub Actions.
