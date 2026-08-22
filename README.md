@@ -9,15 +9,6 @@ I build Go backend systems and AI agent infrastructure.
 
 > Build clear systems. Trace behavior. Improve what matters.
 
-## Featured work
-
-| Project | What it explores | Core stack |
-| --- | --- | --- |
-| [trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | Production-oriented Go agent framework: workflows, tools, memory, MCP, evaluation, and observability | Go |
-| [trpc-agent-python](https://github.com/trpc-group/trpc-agent-python) | Agent examples, tool safety, replay consistency, and auditable evaluation loops | Python |
-| [open-code-review](https://github.com/alibaba/open-code-review) | Code review automation, scan resume behavior, and VS Code integration fixes | Go / TypeScript |
-| [Jiaozi's Blog](https://wsp030914.github.io/) | Go internals notes: slice, map, channel, context, sync.Map, and singleflight | Go |
-
 ## Recent open-source activity
 
 | Date | Repository | Activity |
